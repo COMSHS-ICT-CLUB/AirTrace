@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Station A - Bagong Buhay St, Malhacan Meycauayan, Bulacan ",
+    "lat": 14.739465412228903,
+    "lng": 120.9655624308888,
+    "aqi": 151,
+    "co2": 1665,
+    "hcho": 0.248,
+    "tvoc": 0.621,
+    "lastUpdated": "2026-08-28T10:00"
+  },
+  {
+    "name": "Station B - Testing",
+    "lat": 14.6100,
+    "lng": 121.0000,
+    "aqi": 155,
+    "co2": 1665,
+    "hcho": 0.248,
+    "tvoc": 0.621,
+    "lastUpdated": "2026-08-28T10:00"
+  },
+  {
+    "name": "Station C - Testing",
+    "lat": 14.5800,
+    "lng": 120.9700,
+    "aqi": 38,
+    "co2": 1665,
+    "hcho": 0.248,
+    "tvoc": 0.621,
+    "lastUpdated": "2026-08-28T10:00"
+  }
+]
