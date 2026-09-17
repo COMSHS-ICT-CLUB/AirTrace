@@ -1,0 +1,177 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden; 
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  height: 100vh;
+  height: 100dvh; 
+  display: flex;
+  flex-direction: column;
+}
+
+#app-header {
+  padding: 12px 16px;
+  padding-top: calc(12px + env(safe-area-inset-top));
+  background: #1b1b2f;
+  color: #fff;
+  flex-shrink: 0;
+}
+
+#header-content {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+#logo {
+  height: 40px;
+  width: auto;
+  flex-shrink: 0;
+}
+
+#app-header h1 {
+  font-size: 1.2rem;
+  margin-bottom: 4px;
+}
+
+#app-header p {
+  font-size: 0.8rem;
+  color: #cfcfe0;
+}
+
+#map {
+  flex: 1;
+  width: 100%;
+  min-height: 0; 
+}
+
+#legend {
+  position: absolute;
+  bottom: calc(20px + env(safe-area-inset-bottom));
+  right: 20px;
+  background: #fff;
+  padding: 10px 14px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  font-size: 0.8rem;
+  z-index: 1000;
+  line-height: 1.6;
+  max-width: 240px;
+}
+
+#legend h3 {
+  margin-bottom: 6px;
+  font-size: 0.85rem;
+}
+
+.dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+#legend-toggle {
+  display: none;
+  position: absolute;
+  bottom: calc(20px + env(safe-area-inset-bottom));
+  right: 20px;
+  z-index: 1001;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: none;
+  background: #1b1b2f;
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: bold;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+.aqi-popup h4 {
+  margin-bottom: 4px;
+}
+
+.station-images{
+  flex: 1;
+  gap: 4px;
+  margin-bottom: 8px;
+}
+
+.station-image {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.aqi-popup .aqi-value {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.aqi-popup table {
+  margin-top: 6px;
+  font-size: 0.8rem;
+}
+
+.aqi-popup td {
+  padding: 3px 8px 3px 0; 
+}
+
+
+@media (max-width: 600px) {
+  #app-header {
+    padding: 10px 12px;
+    padding-top: calc(10px + env(safe-area-inset-top));
+  }
+
+  #app-header h1 {
+    font-size: 1rem;
+  }
+
+  #app-header p {
+    font-size: 0.72rem;
+  }
+
+  #logo {
+    height: 32px;
+  }
+
+  #legend-toggle {
+    display: block;
+  }
+
+  #legend {
+    display: none;
+    bottom: calc(72px + env(safe-area-inset-bottom));
+    right: 12px;
+    left: 12px;
+    max-width: none;
+    font-size: 0.85rem;
+  }
+
+  #legend.open {
+    display: block;
+  }
+
+  .leaflet-touch .leaflet-bar a {
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+  }
+}
