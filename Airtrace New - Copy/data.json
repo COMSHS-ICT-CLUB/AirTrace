@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Station A - Bagong Buhay St, Malhacan Meycauayan, Bulacan ",
+    "lat": 14.739465412228903,
+    "lng": 120.9655624308888,
+    "aqi": 151,
+    "co2": 1665,
+    "hcho": 0.248,
+    "tvoc": 0.620,
+    "lastUpdated": "2026-08-28T10:00",
+    "images": [
+      "images/station-a-1.jpg",
+      "images/station-a-2.jpg"
+    ]
+  },
+  {
+    "name": "Station B - Poblacion, Peoples Market",
+    "lat": 14.7370673,
+    "lng": 120.9568528,
+    "aqi": 155,
+    "co2": 2166,
+    "hcho": 0.436,
+    "tvoc": 1.092,
+    "lastUpdated": "2026-09-16T1:11",
+    "images": [
+      "images/station-b-1.jpg",
+      "images/station-b-2.jpg"
+   ]
+  },
+  {
+    "name": "Station C - Iba Sterling Park ",
+    "lat": 14.753098,
+    "lng": 120.977354,
+    "aqi": 38,
+    "co2": 693,
+    "hcho": 0.031,
+    "tvoc": 0.079,
+    "lastUpdated": "2026-09-16T12:11",
+    "images": [
+      "images/station-c-1.jpg",
+      "images/station-c-2.jpg"
+    ]
+  },
+  {
+    "name": "Station  D - Bahay Pare Intersection",
+    "lat": 14.767412,
+    "lng": 121.007316,
+    "aqi": 38,
+    "co2": 1665,
+    "hcho": 0.248,
+    "tvoc": 0.621,
+    "lastUpdated": "2026-09-16T11:11",
+    "images": [
+      "images/station-d-1.jpg",
+      "images/station-d-2.jpg"
+    ]
+  },
+  {
+    "name": "Station E - Lawa Welcome to Lawa Arc",
+    "lat": 14.737835,
+    "lng": 120.973497,
+    "aqi": 38,
+    "co2": 947,
+    "hcho": 0.104,
+    "tvoc": 0.263,
+    "lastUpdated": "2026-09-17T10:00",
+    "images": [
+      "images/station-e-1.jpg",
+      "images/station-e-2.jpg"
+    ]
+  },
+  {
+    "name": "Station F - Perez Welcome to Perez Arc",
+    "lat": 14.765589,
+    "lng": 121.005995,
+    "aqi": 38,
+    "co2": 1013,
+    "hcho": 0.125,
+    "tvoc": 0.316,
+    "lastUpdated": "2026-09-16T10:00",
+    "images": [
+      "images/station-f-1.jpg",
+      "images/station-f-2.jpg"
+    ]
+  },
+  {
+    "name": "Station G - Tugatog Next to Leather Factories",
+    "lat": 14.7232364,
+    "lng": 120.9648538,
+    "aqi": 38,
+    "co2": 2093,
+    "hcho": 0.376,
+    "tvoc": 0.946,
+    "lastUpdated": "2026-09-17T11:00",
+    "images": [
+      "images/station-g-1.jpg",
+      "images/station-g-2.jpg"
+    ]
+  },
+  {
+    "name": "Station H - Caingin Barangay Hall",
+    "lat": 14.7275225,
+    "lng": 120.9709696,
+    "aqi": 38,
+    "co2": 1665,
+    "hcho": 0.248,
+    "tvoc": 0.621,
+    "lastUpdated": "2026-09-17T10:00",
+    "images": [
+      "images/station-h-1.jpg",
+      "images/station-h-2.jpg"
+    ]
+  },
+  {
+    "name": "Station I - Lawa Welcome to Lawa Arc",
+    "lat": 14.737835,
+    "lng": 120.973497,
+    "aqi": 38,
+    "co2": 947,
+    "hcho": 0.104,
+    "tvoc": 0.263,
+    "lastUpdated": "2026-09-17T12:24",
+    "images": [
+      "images/station-i-1.jpg",
+      "images/station-i-2.jpg"
+    ]
+  },
+  {
+    "name": "Station J - Pajo Kariktan ng Meycauayan",
+    "lat": 14.774834,
+    "lng": 121.008061,
+    "aqi": 38,
+    "co2": 435,
+    "hcho": 0.003,
+    "tvoc": 0.008,
+    "lastUpdated": "2026-09-13T11:00",
+    "images": [
+      "images/station-j-1.jpg",
+      "images/station-j-2.jpg"
+    ]
+  },
+  {
+    "name": "Station K - Camalig Emma Town Center (Industrial)",
+    "lat": 14.7657119,
+    "lng": 120.9913621,
+    "aqi": 38,
+    "co2": 999,
+    "hcho": 0.120,
+    "tvoc": 0.299,
+    "lastUpdated": "2026-09-17T9:00",
+    "images": [
+      "images/station-k-1.jpg",
+      "images/station-k-2.jpg"
+    ]
+  },
+  {
+    "name": "Station L - Bagbaguin Near Barangay Hall",
+    "lat": 14.757989,
+    "lng": 121.006087,
+    "aqi": 38,
+    "co2": 1148,
+    "hcho": 0.167,
+    "tvoc": 0.418,
+    "lastUpdated": "2026-09-17T8:00",
+    "images": [
+      "images/station-l-1.jpg",
+      "images/station-l-2.jpg"
+    ]
+  },
+  {
+    "name": "Station M - Calvario Near Church",
+    "lat": 14.735206889202875,
+    "lng": 120.95918734121479,
+    "aqi": 38,
+    "co2": 443,
+    "hcho": 0.003,
+    "tvoc": 0.015,
+    "lastUpdated": "2026-09-16T3:00",
+    "images": [
+      "images/station-m-1.jpg",
+      "images/station-m-2.jpg"
+    ]
+  },
+  {
+    "name": "Station N - Saluysoy Near Meycauayan City Hall",
+    "lat": 14.743055296685403,
+    "lng": 120.95722454999128,
+    "aqi": 38,
+    "co2": 1507,
+    "hcho": 0.143,
+    "tvoc": 0.361,
+    "lastUpdated": "2026-09-16T7:00",
+    "images": [
+      "images/station-n-1.jpg",
+      "images/station-n-2.jpg"
+    ]
+  },
+  {
+    "name": "Station O - Hulo Church Near I Love Hulo & Church",
+    "lat": 14.731982706796513,
+    "lng": 120.95800415894838,
+    "aqi": 38,
+    "co2": 562,
+    "hcho": 0.032,
+    "tvoc": 0.083,
+    "lastUpdated": "2026-09-17T5:00",
+    "images": [
+      "images/station-o-1.jpg",
+      "images/station-o-2.jpg"
+    ]
+  },
+  {
+    "name": "Station P - Bancal Near Graveyard",
+    "lat": 14.725894525195718,
+    "lng": 120.95814310730661,
+    "aqi": 38,
+    "co2": 894,
+    "hcho": 0.040,
+    "tvoc": 0.107,
+    "lastUpdated": "2026-09-17T4:00",
+    "images": [
+      "images/station-p-1.jpg",
+      "images/station-p-2.jpg"
+    ]
+  },
+  {
+    "name": "Station Q - Gasak St Francis of Assisi",
+    "lat": 14.734585770367302,
+    "lng": 120.95666133262267,
+    "aqi": 38,
+    "co2": 877,
+    "hcho": 0.064,
+    "tvoc": 0.163,
+    "lastUpdated": "2026-09-17T3:00",
+    "images": [
+      "images/station-q-1.jpg",
+      "images/station-q-2.jpg"
+    ]
+  },
+  {
+    "name": "Station R - Bayugo",
+    "lat": 14.733566262774481,
+    "lng": 120.95512815053041,
+    "aqi": 38,
+    "co2": 1724,
+    "hcho": 0.279,
+    "tvoc": 0.702,
+    "lastUpdated": "2026-09-17T11:00",
+    "images": [
+      "images/station-r-1.jpg",
+      "images/station-r-2.jpg"
+    ]
+  },
+  {
+    "name": "Station S - Banga Oval",
+    "lat": 14.728235038983339,
+    "lng": 120.95957040859152,
+    "aqi": 38,
+    "co2": 453,
+    "hcho": 0.079,
+    "tvoc": 0.118,
+    "lastUpdated": "2026-09-17T10:00",
+    "images": [
+      "images/station-s.jpg"
+    ]
+  },
+  {
+    "name": "Station T - Longos Veritas",
+    "lat": 14.738592293740716,
+    "lng": 120.94680375244312,
+    "aqi": 38,
+    "co2": 715,
+    "hcho": 0.248,
+    "tvoc": 0.201,
+    "lastUpdated": "2026-09-17T1:00",
+    "images": [
+      "images/station-t.jpg"
+    ]
+  },
+  {
+    "name": "Station U - Pandayan F Reymundo St",
+    "lat": 14.754957558393542,
+    "lng": 120.97316622322461,
+    "aqi": 38,
+    "co2": 1692,
+    "hcho": 0.248,
+    "tvoc": 0.623,
+    "lastUpdated": "2026-09-15T10:20",
+    "images": [
+      "images/station-u.jpg"
+    ]
+  }
+
+]
