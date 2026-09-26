@@ -298,10 +298,11 @@
     "aqi": 38,
     "co2": 1692,
     "hcho": 0.248,
-    "tvoc": 0.623,
+    "tvoc": 0.008,
     "lastUpdated": "2026-09-25T10:15",
     "images": [
-      "images/station-u.jpg"
+      "images/station-v-1.jpg"
+      "images/station-v-2.jpg"
     ]
   }
 ]
